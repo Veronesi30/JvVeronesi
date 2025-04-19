@@ -8,18 +8,18 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Joao! A student from Brazil.
+  Olá 👋, Meu nome é João! Um estudante do Brasil.
 
-  - 💻 I’m currently studying System analysis and development at FIAP.💻
+  - 💻 Eu curso Ánalise e Desenvolvimento de Sistemas na FIAP.💻
 
-  - 🔭 I am looking for my first job opportunity.
+  - 🔭 Estou à procura da minha primeira oportunidade de emprego.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 I am 18 years old, vivo in Brazil. I speak portuguese and english.
+  - 💬 Eu tenho 18 anos, e moro em São Paulo, Brasil.
   - ⚡ I enjoy playing games, whether it's a good game, as well as listening music and reading books! I believe that our personal interests contribute to a more refined perception of things.
 </details>
 
