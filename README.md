@@ -24,11 +24,11 @@
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/freitas.raff/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-freitas-9345492b5/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/s0mew4y)
+[![Instagram]
+[![Linkedin]
+[![Twitch]
 
-![Freitas GitHub stats](https://github-readme-stats.vercel.app/api?username=s0mew4y&show_icons=true&theme=onedark)
+![Freitas GitHub stats]
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
