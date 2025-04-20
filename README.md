@@ -27,7 +27,7 @@
 [![Instagram](https://www.instagram.com/jvveronesi/)
 [![Linkedin](https://www.linkedin.com/in/jo%C3%A3o-victor-veronesi-734897276/)
 
-![Freitas GitHub stats]
+![JvVeroneisi GitHub stats]
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
